@@ -1,0 +1,8 @@
+.idea/
+out/
+maven_lab.iml
+src/test
+target/
+lib/
+*.class
+*.iml
